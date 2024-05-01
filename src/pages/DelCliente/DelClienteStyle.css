@@ -1,4 +1,4 @@
-.del{
+.delcl{
     width: 800px;
     height: 400px;
     background-color: #282c34;
@@ -13,20 +13,20 @@
     padding: 30px 40px;
 }
 
-p{
+.pcl{
     vertical-align: top;
     font-size: 40px;
     text-align: center;
 }
 
-.btdel{
+.btdelcl{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
     margin-top: 125px;
 }
 
-.b1, .b2{
+.b1cl, .b2cl{
     padding: 50px 70px ;
     border-radius: 40px;
     text-align: center;
@@ -41,10 +41,10 @@ p{
     text-decoration: none;
 }
 
-.b1:hover{
+.b1cl:hover{
     background-color: #2f8c43;
 }
 
-.b2:hover{
+.b2cl:hover{
     background-color: #2f8c43;
 }

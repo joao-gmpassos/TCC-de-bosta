@@ -12,14 +12,14 @@ const ListUs = () => {
                         <tread>
                             <tr>
                                 <th>
-                                    gay
+                                    test
                                 </th>
                             </tr>
                         </tread>
                     </Table>
-                    <Link className="botaolistus" to='/login'>Modificar</Link>
-                    <Link className="botaolistus" to='/login'>Cadastrar</Link>
-                    <Link className="botaolistus" to='/login'>Deletar</Link>
+                        <Link className="blistus1" to='/'>Modificar</Link>
+                        <Link className="blistus2" to='/'>Cadastrar</Link>
+                        <Link className="blistus3" to='/delus'>Deletar</Link>
                 </div>
         </div>
     )
